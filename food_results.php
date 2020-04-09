@@ -21,7 +21,7 @@
             echo "<script>alert('Something went wrong.');</script>";      
         } */
     }
-?>
+?> 
 <!DOCTYPE html>
 <html lang="en">
 
